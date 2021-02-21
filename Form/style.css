@@ -1,0 +1,12 @@
+*not[input]{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #b48fc1;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
